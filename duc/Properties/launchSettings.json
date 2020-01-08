@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "duc": {
+      "commandName": "Project",
+      "commandLineArgs": "-u some@email.com -p 'p@$$w0rd!' -n domain.tech -f -v"
+    }
+  }
+}
