@@ -3,7 +3,7 @@
 
 * Get yourself a .tech domain [here](https://get.tech/) 
 * Administer the domain via its control panel [here](https://controlpanel.tech/)
- * Setup your free DNS Service by adding one or many A Records *See A record management [here](https://controlpanel.tech/kb/servlet/KBServlet/faq471.html#ma)
+* Setup your free DNS Service by adding one or many A Records *See A record management [here](https://controlpanel.tech/kb/servlet/KBServlet/faq471.html#ma)
 
 ## Windows Usage ##
 * Download and install the Chrome Browser [here](https://www.google.com/chrome/)
